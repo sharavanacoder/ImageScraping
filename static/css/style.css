@@ -1,0 +1,10 @@
+body{
+    background: rgb(236,233,170);
+    background: radial-gradient(circle, rgba(236,233,170,0.6880952209985557) 0%, rgba(55,226,205,0.19509802211900384) 100%); 
+}
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-family:monospace;
+}
