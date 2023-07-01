@@ -88,4 +88,3 @@ def down():
         infor='Please enter a valid url'
     return render_template('home.html')
     '''
-app.run(debug=True)
